@@ -1,2 +1,2 @@
-### Fibonaci Series
+### Fibonacci Series
 Easy to use for the compiler
